@@ -1,0 +1,10 @@
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\bin\Debug\Clase020419.exe.config
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\bin\Debug\Clase020419.exe
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\bin\Debug\Clase020419.pdb
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\obj\Debug\Clase020419.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\obj\Debug\Clase020419.Form1.resources
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\obj\Debug\Clase020419.Properties.Resources.resources
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\obj\Debug\Clase020419.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\obj\Debug\Clase020419.exe
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\obj\Debug\Clase020419.pdb
+C:\Users\Lab3\Desktop\clase.02-04-19\Clase020419\Clase020419\obj\Debug\Clase020419.Form2.resources
